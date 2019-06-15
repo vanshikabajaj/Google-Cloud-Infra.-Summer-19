@@ -8,7 +8,7 @@
     
 ## Google Cloud Insights
 
-*   Google Cloud Traffic is 40% of the entire coud server traffic of the world.
+*   Google Cloud Traffic is 40% of the entire cloud server traffic of the world.
 
 *   When you search something on google then google forw. your request to nearest endpoint zone which is directed for google's edge point-cashing netwark that serves minimum latency.
 
