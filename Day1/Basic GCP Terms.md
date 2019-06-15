@@ -1,5 +1,5 @@
 # Day 1
-`Google Cloud Platforms (GCP)`
+`Google Cloud Platform (GCP)`
 
 ## Basic Cloud Terms  
 *   IaaS simply means intfrastructure as a Service ``WE PAY FOR WE ARE ALLOCACTED``
@@ -14,7 +14,7 @@
 
 *   A `ZONE` is a deploymwnt area for Google Cloud Platform resources which also helps servers and searched results to protect unexpected failures.
 
-##Kubernatic Engine 
+## Kubernatic Engine 
 
 * You can think of this as a container for executing infrastructure as a servce applications of cloud products
 
