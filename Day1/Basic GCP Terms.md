@@ -10,7 +10,7 @@
 
 *   Google Cloud Traffic is 40% of the entire cloud server traffic of the world.
 
-*   When you search something on google then google forw. your request to nearest endpoint zone which is directed for google's edge point-cashing netwark that serves minimum latency.
+*   When you search something on google then google forw. your request to nearest endpoint zone which is directed for google's edgepoint-cashing network that serves minimum latency.
 
 *   A `ZONE` is a deploymwnt area for Google Cloud Platform resources which also helps servers and searched results to protect unexpected failures.
 
