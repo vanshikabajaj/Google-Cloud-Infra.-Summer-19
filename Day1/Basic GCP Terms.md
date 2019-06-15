@@ -12,12 +12,12 @@
 
 *   When you search something on google then google forw. your request to nearest endpoint zone which is directed for google's edgepoint-cashing network that serves minimum latency.
 
-*   A `ZONE` is a deploymwnt area for Google Cloud Platform resources which also helps servers and searched results to protect unexpected failures.
+*   A `ZONE` is a deployment area for Google Cloud Platform resources which also helps servers and searched results to protect unexpected failures.
 
 ## Kubernatic Engine 
 
-* You can think of this as a container for executing infrastructure as a servce applications of cloud products
+* You can think of this as a container for executing infrastructure as a servce applications of cloud products.
 
-* It gives Google Cloud users ability to mix and match thier cloud microservices running on Different Cloud Platforms ,If in case google ever failed to serve the best but thier users can still shift their data to other servers. :)
+* It gives Google Cloud users ability to mix and match their cloud microservices running on Different Cloud Platforms ,If in case google ever fails to serve the best but their users can still shift their data to other servers. :)
    
  
