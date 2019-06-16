@@ -20,4 +20,12 @@
 
 * It gives Google Cloud users ability to mix and match their cloud microservices running on Different Cloud Platforms ,If in case google ever fails to serve the best but their users can still shift their data to other servers. :)
    
- 
+## Google Stack Driver
+
+*  It lets it's administrator Moniter Workload across multiple cloud platforms
+
+*  Google also made Chips for GSD like chip named "Titan"
+
+*  `TITAN` is a google cloud developed chip for cloud platforms that's currently being deployed on both google mainline servers.
+
+*   Google server machines use `Cryptographic signatures` to make sure they are booting the Correct Software.
