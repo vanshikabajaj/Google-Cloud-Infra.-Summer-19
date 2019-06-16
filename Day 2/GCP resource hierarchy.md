@@ -8,4 +8,4 @@
 
 ## Hierarchy policies
 
-* *The policies implemented at a higher level in this hierarchy can't take away access that's granted at a lower level. For example, suppose that a policy applied on the bookshelf project gives user Pat the right to modify a cloud storage bucket, but a policy at the organization level says that Pat can only view cloud storage buckets not change them. The more generous policy is the one that takes effect. Keep this in mind as you design your policies.
+* The policies implemented at a higher level in this hierarchy can't take away access that's granted at a lower level. For example, suppose that a policy applied on the bookshelf project gives user Pat the right to modify a cloud storage bucket, but a policy at the organization level says that Pat can only view cloud storage buckets not change them. The more generous policy is the one that takes effect. Keep this in mind as you design your policies.
