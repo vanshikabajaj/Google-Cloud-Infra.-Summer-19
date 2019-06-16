@@ -9,7 +9,9 @@
 
 ## Google Front End
 
-* # It checks incoming network connections for correct certificates and best practices. The GFE also additionally, applies protections         against denial of service attacks. The sheer scale of its infrastructure, enables Google to simply absorb many denial of service attacks,   even behind the GFEs. Google also has multi-tier, multi-layer denial of service protections that further reduce the risk of any denial of   service impact
+* It checks incoming network connections for correct certificates and best practices. The GFE also additionally, applies protections         against denial of service attacks. 
+
+* The sheer scale of its infrastructure, enables Google to simply absorb many denial of service attacks,   even behind the GFEs. Google also has multi-tier, multi-layer denial of service protections that further reduce the risk of any denial of   service impact
 
 
 ## Red Team Exercises
