@@ -1,7 +1,7 @@
 # COMPUTE ENGINE
 
 * Compute Engines InstantAdmin Role Lets Whoever Has That Role Perform a Certain Set of Actions on Virtual Machines 
-
+## Notes
 ## Actions
 
 * The Actions Are: Listing them, Reading and Changing their Configurations, and Starting and Stopping them
